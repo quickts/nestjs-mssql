@@ -34,7 +34,7 @@ Import and configure `MssqlModule` with the same configuration parameters accept
 export class MyModule {}
 ```
 
-Inject and the use `MssqlService` inside your services:
+Inject and then use `MssqlService` inside your services:
 
 ```ts
 @Injectable()
