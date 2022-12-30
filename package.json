@@ -24,7 +24,7 @@
     "@types/mocha": "^5.2.7",
     "@types/mssql": "^4.3.0",
     "@types/node": "^12.7.4",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "mssql": "^5.1.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
